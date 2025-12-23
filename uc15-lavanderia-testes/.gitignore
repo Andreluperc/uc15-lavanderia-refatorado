@@ -1,0 +1,7 @@
+/target/
+/.nb-gradle/
+/.nb/
+/.idea/
+/*.iml
+*.log
+.DS_Store
